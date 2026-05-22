@@ -2,14 +2,16 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Eliabe%20Rafael%20Oliveira%20Silva&fontSize=34&fontColor=58a6ff&fontAlignY=35&desc=Software%20Developer%20%7C%20ADS%20Student%20%7C%20Technology%20Enthusiast&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" alt="header" />
 </div>
 
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=200&section=header&text=Eliabe%20Rafael%20Oliveira%20Silva&fontSize=34&fontColor=ff0000&fontAlignY=35&desc=Software%20Developer%20%7C%20ADS%20Student%20%7C%20Technology%20Enthusiast&descSize=18&descColor=ff4d4d&descAlignY=55&animation=fadeIn" alt="header" />
+</div>
+
 ### 🎓 Estudante de Análise e Desenvolvimento de Sistemas 👋🏽
 
 Sou estudante do curso superior de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento de software e aprendizado contínuo na área de tecnologia. Atualmente estudo conceitos de programação, desenvolvimento web, banco de dados e boas práticas de engenharia de software, buscando evoluir constantemente através de projetos práticos e novos desafios.
 
 A área de **ADS (Análise e Desenvolvimento de Sistemas)** prepara profissionais para projetar, desenvolver, testar e manter sistemas computacionais, unindo conhecimento técnico com resolução de problemas e inovação tecnológica.
 
----
-![Eliabits's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliabits&show_icons=true&theme=dracula)
 ---
 ## 🚀 Tecnologias e Ferramentas
 
@@ -39,7 +41,7 @@ A área de **ADS (Análise e Desenvolvimento de Sistemas)** prepara profissionai
 - Programação com Python
 
 ---
-[![Eliabits's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliabits)](https://github.com/anuraghazra/github-readme-stats)
+![Eliabits's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliabits&show_icons=true&theme=dracula)
 ---
 
 ## 📫 Contato
