@@ -7,7 +7,8 @@ Sou estudante do curso superior de **Análise e Desenvolvimento de Sistemas**, c
 A área de **ADS (Análise e Desenvolvimento de Sistemas)** prepara profissionais para projetar, desenvolver, testar e manter sistemas computacionais, unindo conhecimento técnico com resolução de problemas e inovação tecnológica.
 
 ---
-
+![Eliabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliabits&commits_year=2026)
+---
 ## 🚀 Tecnologias e Ferramentas
 
 ### Linguagens e Desenvolvimento
